@@ -402,8 +402,7 @@ if __name__ == "__main__":
 
     # Dahua RTSP Stream
     rtsp_url = (
-        "rtsp://admin:amirkhaled109@192.168.1.108:554/"
-        "cam/realmonitor?channel=1&subtype=1"
+        rtsp_url = "rtsp://USERNAME:PASSWORD@CAMERA_IP:554/cam/realmonitor?channel=1&subtype=1"
     )
 
     camera = VideoCapture(rtsp_url)
