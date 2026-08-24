@@ -41,7 +41,7 @@ using computer vision, LiDAR, GPS, and ultrasonic sensors.
 
 ## Project Demonstration
 
-<img width="1920" height="1080" alt="Screenshot 2026-06-20 072408" src="https://github.com/user-attachments/assets/642d06f7-2361-49dc-ab52-de67c5cb1a61" />
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/270add1f-53c0-49bb-8071-0734db511df0" />
 
 
 ## Future Improvements
