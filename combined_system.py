@@ -402,6 +402,7 @@ if __name__ == "__main__":
 
     # Dahua RTSP Stream
     rtsp_url = (
+        
         rtsp_url = "rtsp://USERNAME:PASSWORD@CAMERA_IP:554/cam/realmonitor?channel=1&subtype=1"
     )
 
